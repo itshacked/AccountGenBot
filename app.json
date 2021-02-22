@@ -36,6 +36,7 @@
     "JTU_ENABLE": {
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
+    }
 },
   "buildpacks": [
     {
@@ -50,5 +51,4 @@
       }
     }
   ]
-}
 }
