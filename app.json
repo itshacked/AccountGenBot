@@ -51,7 +51,7 @@
     "DUMB_CHAT": {
       "description": "YOUR CHANNEL LINK",
       "value": ""
-    
+    }
 }, 
 
   "buildpacks": [
