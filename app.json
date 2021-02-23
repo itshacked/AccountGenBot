@@ -36,24 +36,22 @@
     "JTU_ENABLE": {
       "description": "JTU",
       "value": ""
-    }
-},
-  
+    
+    },
     "CHANNEL_USERNAME": {
       "description": "YOUR CHANNEL USERNAME",
       "value": ""
-    }
+    
 },
-          "CHANNEL_URL": {
+    "CHANNEL_URL": {
       "description": "YOUR CHANNEL LINK",
       "value": ""
-    }
+    
 },    
-
-"DUMB_CHAT": {
-  "description": "YOUR CHANNEL LINK",
+    "DUMB_CHAT": {
+      "description": "YOUR CHANNEL LINK",
       "value": ""
-    }
+    
 }, 
 
   "buildpacks": [
