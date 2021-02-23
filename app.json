@@ -34,10 +34,28 @@
       "value": ""
     },
     "JTU_ENABLE": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
+      "description": "JTU",
       "value": ""
     }
 },
+  
+    "CHANNEL_USERNAME": {
+      "description": "YOUR CHANNEL USERNAME",
+      "value": ""
+    }
+},
+          "CHANNEL_URL": {
+      "description": "YOUR CHANNEL LINK",
+      "value": ""
+    }
+},    
+
+"DUMB_CHAT": {
+  "description": "YOUR CHANNEL LINK",
+      "value": ""
+    }
+}, 
+
   "buildpacks": [
     {
       "url": "heroku/python"
